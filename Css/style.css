@@ -1,4 +1,7 @@
-<style>
-h1 {text-align: center}
-
-</style>
+body{
+  background-color: #96e896;
+}
+h1 {text-align: center;
+   }
+p {text-align: justify;
+  }
