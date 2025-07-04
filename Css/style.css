@@ -1,7 +1,9 @@
 body{
-  font-size: 1.3em; background-color: #96e896;
+  font-size: 2em; background-color: #96e896;
 }
-h1 {font-size: 2em; text-align: center;
-   }
+
+h1 {font-size: 4em; text-align: center;
+}
+
 p {text-align: justify;
-  }
+}
