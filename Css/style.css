@@ -3,11 +3,18 @@ body{
 }
 
 h1{
-  font-size: 3em; text-align: center; color: white;
+  font-size: 4em;
+  text-align: center;
+  color: white;
+}
+
+h2{
+  font-size: 1.3em;
 }
 
 p{
   text-align: justify;
+  text-indent: 30px;
 }
 
 li{
