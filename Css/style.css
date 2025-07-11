@@ -2,8 +2,31 @@ body{
   font-size: 2em; background-color: #96e896;
 }
 
-h1 {font-size: 4em; text-align: center;
+h1{
+  font-size: 4em; text-align: center; color: white;
 }
 
-p {text-align: justify;
+p{
+  text-align: justify;
+}
+
+li{
+  margin: 50px;
+}
+
+.autoimage{
+  width: 180px;
+  height: 180px;
+  border-radius: 15px;
+  margin-right: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+table{
+  background-color: #f3f7f3;
+  font-size: 40px; text-align: center;
+  vertical-align: middle;
+  border-radius: 10px;
+  justify-content: center;
 }
