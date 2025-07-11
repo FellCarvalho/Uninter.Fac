@@ -1,25 +1,27 @@
 body{
-  font-size: 1.7em; background-color: #96e896;
+  font-size: 22px; background-color: #96e896;
+  font-family: Georgia, serif;
 }
 
 h1{
-  font-size: 4em;
+  font-size: 2em;
   text-align: center;
   color: white;
 }
 
 h2{
-  font-size: 1.3em;
+  font-size: 1.5em;
 }
 
 p{
   text-align: justify;
-  text-indent: 30px;
+  font-size: 1.2em;
 }
 
-li{
-  margin: 50px;
-}
+ul{
+  background: url("Photo/filme.jpeg");
+  line-height: 2;
+ }
 
 .autoimage {
   width: 180px;
@@ -28,11 +30,12 @@ li{
   margin-right: 25px;
   margin-top: 25px;
   margin-bottom: 25px;
+  display: block;
 }
 
 table{
   background-color: #f3f7f3;
-  font-size: 40px; text-align: center;
+  text-align: center;
   border-radius: 10px;
   margin: 0 auto;
 }
@@ -49,4 +52,4 @@ a:active{
   color: purple;
 }
 
-a{font-size: 20px;}
+a{font-size: 12px;}
