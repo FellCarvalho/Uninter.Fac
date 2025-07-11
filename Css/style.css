@@ -1,9 +1,9 @@
 body{
-  font-size: 2em; background-color: #96e896;
+  font-size: 1.7em; background-color: #96e896;
 }
 
 h1{
-  font-size: 4em; text-align: center; color: white;
+  font-size: 3em; text-align: center; color: white;
 }
 
 p{
@@ -14,7 +14,7 @@ li{
   margin: 50px;
 }
 
-.autoimage{
+.autoimage {
   width: 180px;
   height: 180px;
   border-radius: 15px;
@@ -26,7 +26,20 @@ li{
 table{
   background-color: #f3f7f3;
   font-size: 40px; text-align: center;
-  vertical-align: middle;
   border-radius: 10px;
-  justify-content: center;
+  margin: 0 auto;
 }
+
+a:link{
+  color: black;
+}
+
+a:hover{
+  color: blue;
+}
+
+a:active{
+  color: purple;
+}
+
+a{font-size: 20px;}
